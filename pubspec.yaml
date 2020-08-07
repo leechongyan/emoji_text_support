@@ -2,7 +2,7 @@ name: emoji_text_support
 description: Helper functions for keyboard controller when handling grapheme clusters
 version: 1.0.0+1
 author: leechongyan <leechongyan33@gmail.com>
-homepage:
+homepage: https://github.com/leechongyan/emoji_text_support
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
