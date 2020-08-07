@@ -1,6 +1,6 @@
 name: emoji_text_support
 description: Helper functions for keyboard controller when handling grapheme clusters
-version: 1.0.0+1
+version: 1.0.0+2
 author: leechongyan <leechongyan33@gmail.com>
 homepage: https://github.com/leechongyan/emoji_text_support
 
