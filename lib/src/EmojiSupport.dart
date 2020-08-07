@@ -1,5 +1,6 @@
 import 'package:emoji_picker/emoji_picker.dart';
 import 'package:flutter/material.dart';
+import 'package:characters/characters.dart';
 
 class EmojiSupport{
   static void addEmoji({Emoji emoji, TextEditingController textEditingController}){
