@@ -9,7 +9,7 @@ These helper functions aim to ensure that the textEditingController.selection an
 In the ```dependencies:``` section of your ```pubspec.yaml```, add the following line:
 
 ```python
-emoji_text_support: 1.0.0+2
+emoji_text_support: 1.0.0+4
 ```
 
 
